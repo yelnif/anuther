@@ -1,0 +1,15 @@
+apps
+Desktop
+Documents
+Examples
+gitlocalrepo
+Music
+Pictures
+Public
+rails
+rubyprograms
+skul_development.sql
+sql
+Templates
+Videos
+workspace
