@@ -1,0 +1,21 @@
+10.times do
+puts 'goodbye'
+end10.times do
+puts 'goodbye'
+end10.times do
+puts 'goodbye'
+end10.times do
+puts 'goodbye'
+end10.times do
+puts 'goodbye'
+end10.times do
+puts 'goodbye'
+end10.times do
+puts 'goodbye'
+end10.times do
+puts 'goodbye'
+end10.times do
+puts 'goodbye'
+end10.times do
+puts 'goodbye'
+end
